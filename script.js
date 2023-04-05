@@ -25,6 +25,8 @@ let currentIndex = 0
 //Initialised timer ID.
 let timerID = null
 
+console.log("https://github.com/AayushJadhav/Frogger")
+
 //Function that starts game.
 function startGame() {
     //Resetting h3's
